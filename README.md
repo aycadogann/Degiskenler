@@ -1,0 +1,2 @@
+# Degiskenler
+Değişken Tanımlama
